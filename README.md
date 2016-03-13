@@ -13,7 +13,7 @@ Hosted by : Department of Computer Science Innovation Lab, University of Toronto
 ### Description
 This tutorial is designed for non-cs student / people with nearly zero background in programming.
 
-[Workshop Talk Slides](https://docs.google.com/presentation/d/1mJ_eGwer4y4DhtkxJeQInO7C5v_d0S7ZvVETHBKMSN0/edit?usp=sharing)
+Workshop Talk Slides (link will be updated after workshop)
 
 The goals of this workshop are:
 * Get to know the enviroment of Android app development.
