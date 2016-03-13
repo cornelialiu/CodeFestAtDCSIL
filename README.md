@@ -7,12 +7,13 @@ Under this repo, there are:
 
 ### Event info
 [**CODE FEST @ DCSIL**](https://www.eventbrite.ca/e/codefest-dcsil-tickets-21589993251)
+
 Hosted by : Department of Computer Science Innovation Lab, University of Toronto
 
 ### Description
 This tutorial is designed for non-cs student / people with nearly zero background in programming.
 
-[Workshop Talk Slides](https://docs.google.com/presentation/d/1mJ_eGwer4y4DhtkxJeQInO7C5v_d0S7ZvVETHBKMSN0/edit?usp=sharing)
+Workshop Talk Slides (link will be updated after workshop)
 
 The goals of this workshop are:
 * Get to know the enviroment of Android app development.
@@ -27,6 +28,7 @@ Here are the softwares you need to install before attending this workshop. If yo
   * [Java SE JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) (7 or 8)
   * [Android Studio](http://developer.android.com/sdk/index.html#top)
 * For our TorontoBird game
+  * Two things above and  
   * [libGX](https://libgdx.badlogicgames.com/download.html)
 
 
