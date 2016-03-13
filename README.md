@@ -27,6 +27,7 @@ Here are the softwares you need to install before attending this workshop. If yo
   * [Java SE JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) (7 or 8)
   * [Android Studio](http://developer.android.com/sdk/index.html#top)
 * For our TorontoBird game
+  * Two things above and  
   * [libGX](https://libgdx.badlogicgames.com/download.html)
 
 
