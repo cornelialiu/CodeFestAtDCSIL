@@ -26,12 +26,16 @@ The goals of this workshop are:
 ### Instructions
 Here are the softwares you need to install before attending this workshop. If you need any help for setting up, please check this [Workshop Guide](https://docs.google.com/presentation/d/1s8QOGu1r68Q9Ff6SYWhvAjYlxg9XREKiomtVIiU7XzM/edit?usp=sharing).
 
+
 * For "Hello World" app
   * [Java SE JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) (7 or 8)
   * [Android Studio](http://developer.android.com/sdk/index.html#top)
 * For our TorontoBird game
   * Two things above and  
   * [libGX](https://libgdx.badlogicgames.com/download.html) (Notice: LibGX is an open source software helps you generate framework and provides library for build a 2D game. You don't need to install it. If you have Java JDK installed, LibGX can be open directly.)
+* About the souce code:
+ * If you want to check out the source code before workshop, you'are welcome! If you don't know how to do git, just use the download .zip on the right side menu bar.
+  
 
 
 
