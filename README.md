@@ -33,7 +33,7 @@ Here are the softwares you need to install before attending this workshop. If yo
 * For our TorontoBird game
   * Two things above and  
   * [libGX](https://libgdx.badlogicgames.com/download.html) (Notice: LibGX is an open source software helps you generate framework and provides library for build a 2D game. You don't need to install it. If you have Java JDK installed, LibGX can be open directly.)
-* About the souce code:
+* About the source code:
  * If you want to check out the source code before workshop, you'are welcome! If you don't know how to do git, just use the download .zip on the right side menu bar.
   
 
