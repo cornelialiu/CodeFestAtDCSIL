@@ -31,7 +31,7 @@ Here are the softwares you need to install before attending this workshop. If yo
   * [Android Studio](http://developer.android.com/sdk/index.html#top)
 * For our TorontoBird game
   * Two things above and  
-  * [libGX](https://libgdx.badlogicgames.com/download.html)
+  * [libGX](https://libgdx.badlogicgames.com/download.html) (Notice: LibGX is a open source software helps you generate framework and provides library for build a 2D game. You don't need to install it. If you have Java JDK installed, LibGX can be open directly.)
 
 
 
