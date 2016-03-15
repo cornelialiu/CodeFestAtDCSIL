@@ -5,7 +5,7 @@ Under this repo, there are:
 * A simple demo of "Hello World" app on Android.
 * A remake of Flappy Bird game. Thanks to excellent [kilobolt.com tutorial on Zombie Bird](http://www.kilobolt.com/introduction.html)
 
-**Instruction Google Doc will have everything you need to prepare before coming to our workshop.** [CLICK HERE](https://docs.google.com/document/d/1MoGgyrd5sMHsREQdDpVFPl_COFt-givCA4FoYwoduYQ/edit)
+**Workshop Guide Google Doc will have everything you need to prepare before coming to our workshop.** [CLICK HERE](https://docs.google.com/document/d/1MoGgyrd5sMHsREQdDpVFPl_COFt-givCA4FoYwoduYQ/edit)
 
 ### Event info
 [**CODE FEST @ DCSIL**](https://www.eventbrite.ca/e/codefest-dcsil-tickets-21589993251)
