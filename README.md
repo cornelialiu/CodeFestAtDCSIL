@@ -36,7 +36,7 @@ Here are the softwares you need to install before attending this workshop. If yo
   * Two things above and  
   * (optional) [libGX](https://libgdx.badlogicgames.com/download.html) (Note: LibGX is an open source software helps you generate framework and provides library for build a 2D game. You don't need to install it. If you have Java JDK installed, LibGX can be opened directly.)
 * About the source code:
- * If you want to check out the source code before workshop, you'are welcome! If you don't know how to do git, just use the download .zip on the right side menu bar.
+ * Feel free if you want to check out the source code before workshop. If you don't know how to do git, just use the download .zip on the right side menu bar.
   
 
 
