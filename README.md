@@ -44,7 +44,7 @@ Here are the softwares you need to install before attending this workshop. If yo
 ### If you are reading this, thank you for checking up again after we finished this work shop.
 I hope you get some experience of how android dev works and kind of know where to start. I apologize for not finishing up everything we planned and didn't get chance to make sure the HelloWorld app works on your device. 
 
-To be honest, everything we do when it comes develop an app are mostly open source and free to public. You can't imagine how many resource you can get from Internet. All the stuff I had in this tutorial were from online. Hopefully now you know where to find help and built up interest of searching for tutorials to learn.
+To be honest, everything we do when it comes develop an app are mostly open source and free to public. You can't imagine how many resources you can get from Internet. All the stuff I had in this workshop were from online tutorials. Hopefully now you know where to find help and built up interest of searching for tutorials to learn.
 
 I hope you all the best for learning app dev and thank you for staying with me in workshop.
 
