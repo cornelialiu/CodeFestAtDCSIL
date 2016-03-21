@@ -46,6 +46,7 @@ I hope you get some experience of how android dev works and kind of know where t
 
 To be honest, everything we do when it comes develop an app are mostly open source and free to public. You can't imagine how many resource you can get from Internet. All the stuff I had in this tutorial were from online. Hopefully now you know where to find help and built up interest of searching for tutorials to learn.
 
+I hope you all the best for learning app dev and thank you for staying with me in workshop.
 
 
 
