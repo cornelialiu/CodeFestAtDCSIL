@@ -3,7 +3,9 @@
 This is a repo of tutorial material for "Android For Beginners" workshop at "CODE FEST @ DCSIL " 2016 March. 
 Under this repo, there are:
 * A simple demo of "Hello World" app on Android.
+ * This is from [Andorid's official tutorial](https://developer.android.com/training/basics/firstapp/index.html) 
 * A remake of Flappy Bird game. Thanks to excellent [kilobolt.com tutorial on Zombie Bird](http://www.kilobolt.com/introduction.html)
+ * Source code is in TorBird, finished up to Day 7. Bird will respond to touch and backgroud moves. This is good for beginners to practice Java, MVC model. 
 
 **If you don't know git, this Workshop Guide Google Doc also have everything you need to prepare before coming to our workshop.** [CLICK HERE](https://docs.google.com/document/d/1MoGgyrd5sMHsREQdDpVFPl_COFt-givCA4FoYwoduYQ/edit)
 
@@ -16,8 +18,6 @@ Hosted by : Department of Computer Science Innovation Lab, University of Toronto
 This tutorial is designed for non-cs student / people with nearly zero background in programming.
 
 [Workshop Talk Slides](https://docs.google.com/presentation/d/1mJ_eGwer4y4DhtkxJeQInO7C5v_d0S7ZvVETHBKMSN0/edit?usp=sharing) 
-
-
 
 The goals of this workshop are:
 * Get to know the enviroment of Android app development.
@@ -40,6 +40,13 @@ Here are the softwares you need to install before attending this workshop. If yo
   * TorBird contains source code finished until [kilobolt tutorial Day 7](http://www.kilobolt.com/introduction.html)
   * TorBird_init contains source code of what libGX initialized
   
+
+### If you are reading this, thank you for checking up again after we finished this work shop.
+I hope you get some experience of how android dev works and kind of know where to start. I apologize for not finishing up everything we planned and didn't get chance to make sure the HelloWorld app works on your device. 
+
+To be honest, everything we do when it comes develop an app are mostly open source and free to public. You can't imagine how many resource you can get from Internet. All the stuff I had in this tutorial were from online. Hopefully now you know where to find help and built up interest of searching for tutorials to learn.
+
+
 
 
 
